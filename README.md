@@ -1,4 +1,4 @@
-# Hello! I'm a proactive Frontend Developer, Woolim Ryu 👋
+# Hello! I'm a proactive Frontend developer, Woolim Ryu 👋
 
 <!--
 **DeveloperCookie/DeveloperCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python3-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-306add?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4daf53?style=flat-square&logo=MongoDB&logoColor=white"/> 
 
 </p>
+
+## Work / Education Experience
+- Hyundai Motor Company (2020.04 - current)
+- Kakao Corp. (2015.10 - 2020.04)
+- NHN NEXT (2014.01 - 2015.10)
