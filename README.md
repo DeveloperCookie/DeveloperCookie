@@ -1,4 +1,4 @@
-### Hello! I'm a proactive Frontend Developer, Woolim Ryu 👋
+# Hello! I'm a proactive Frontend Developer, Woolim Ryu 👋
 
 <!--
 **DeveloperCookie/DeveloperCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-# 👩🏻‍💻 Tech Stack
+## 👩🏻‍💻 Tech Stack
 
 ### Frontend
 <img src="https://img.shields.io/badge/JavaScript-efd919?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-2f73bf?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-1ab5e7?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-dc5882?style=flat-square&logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-ea8035?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-146eb0?style=flat-square&logo=CSS3&logoColor=white"/>
