@@ -1,5 +1,5 @@
 # Woolim Ryu
-## Frontend Developer
+## 👩🏻‍💻 Frontend Developer
 Proactive software engineer with over 5 years of frontend work experience.
 
 
@@ -26,7 +26,7 @@ News Development Team (2015.10 - 2018.04)
 ## 🎓 Education
 ### NHN NEXT (2014 - 2016)
 - Full Scholarship
-- Major: Web Front, Web Server Programming
+- Major: Computer Science
 - Courses: Data Structures/Algorithms, Web Frontend/Backend Programming, Network, DB
 - Projects: Developed a map service for the mobility handicapped, Developed a merchandise recommendation system
 - Activities: Teaching & Learning IT Club / CSS Study Club / Algorithm Study Club / Teaching MIT App Inventor in Seowon Elementary School
