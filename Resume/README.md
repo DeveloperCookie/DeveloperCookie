@@ -3,7 +3,7 @@
 Proactive software engineer with over 5 years of frontend work experience.
 
 
-## 💼 Work Experience (5+ years)
+## 💼 Work Experience
 ### Hyundai Motor Company / Frontend Developer
 AI Service Team (2020.04 - current)
 - Developed an AI chatbot & virtual agent builder specialized in Mobility using React, TypeScript, GraphQL, Apollo Client, HTML5/CSS.
