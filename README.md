@@ -7,7 +7,7 @@
 - Cloud Technology: Kubernetes, Docker, Opentelemetry
 
 ## 💼 Work / Education Experience
-Proactive software engineer with over 5 years of frontend experience.
+Proactive, creative and a proven team player with 5+ years experience of Web Development.
 - <b>Hyundai Motor Company</b> (2020.04 - current)
 - <b>Kakao Corp.</b> (2015.10 - 2020.04)
 - <b>NHN NEXT</b> (2014 - 2016)
