@@ -4,24 +4,26 @@ Proactive software engineer with over 5 years of frontend work experience.
 
 
 ## 💼 Work Experience
-### Hyundai Motor Company / Frontend Developer
-AI Service Team (2020.04 - current)
-- Developed an AI chatbot & virtual agent builder specialized in Mobility using React, TypeScript, GraphQL, Apollo Client, HTML5/CSS.
+### Hyundai Motor Company / Software Engineer
+AI Virtual Assistant Team
+- Developed and designed UI/UX for In-vehicle voice assistant builder as a lead frontend engineer using JavaScript, React, GraphQL, Apollo Client, HTML/CSS, and Figma.
+- Accelerated time to market by restructuring system architecture and API using MSA, React, GraphQL.
+- Improved performance of the team by sharing tech skills, interviewing, and mentoring other engineers.
+- Assessed the technical feasibility of new products by developing several POCs quickly.
 
+Tokyo Olympic 2021 TF
+- Accelerated posture analysis cycle for Olympic coaches by developing a web app that automatically detects athletes' best posture.
 
 ### Kakao Corp. / Software Engineer
-KakaoTalk ChatBot Team (2018.04 - 2020.04)
+KakaoTalk Chatbot Team
+- Reduced customer service costs by 40% by developing a chatbot platform specialized in QnA data using React, Redux, Flask, Celery, HTML/CSS and got a patent in March 2019.
+- Replaced repetitive tasks of community leaders in chat rooms by 100% by developing automation service.
+- Reduced the failover time by 70% by structuring logging systems and developing a bug tracking tool using Opentracing, Jaeger, Elastic Search API, Flask, React, HTML/CSS.
 
-- Developed a chatbot platform specialized in FAQ data using React, Flask, Celery, Search Cloud API and received a patent in March 2019.
-- Reduced the failover time tenfold by improving the logging system using CNCF OpenTracing and developing a bug tracking tool that visualizes logs using Elastic Search, Python Flask, React, Redux.
-- By applying this engine to Kakao Customer Service, reduced the number of calls and increased the number of chatbot usage by 40%.
-- Build a cloud-based infrastructure and development pipeline using Docker, Kubernetes, Jenkins, ArgoCD.
-
-News Development Team (2015.10 - 2018.04)
-- Developed Daum News service that is compatible with multi-browser/device using open sources, HTML, CSS, and JavaScript.
-- Improved UI/UX for 80 million page views per day through data analysis, A/B Tests and web performance optimization.
-- Developed a content analytics tool using React, Redux, highchart, d3.js.
-- Increased the number of page views by 130 million in a year by improving UI/UX steadily through analyzing usage patterns using Google Analytics and offering AMP.
+News Service Team
+- Increased the number of users per day by 15% QoQ up to 13 million by improving web accessibility for people with disabilities and supporting multi-browser and multi-device.
+- Improved page load time by 30% by restructuring codes and improving web performance using caching, code splitting, optimizing CSS, asynchronous functions, and so on.
+- Improved user satisfaction by voluntarily visiting the customer center to collect user feedback and handling 10+ feedbacks every week.
 
 ## 🎓 Education
 ### NHN NEXT (2014 - 2016)
@@ -32,9 +34,8 @@ News Development Team (2015.10 - 2018.04)
 - Activities: Teaching & Learning IT Club / CSS Study Club / Algorithm Study Club / Teaching MIT App Inventor in Seowon Elementary School
 
 ## 🏆 Awards, Activities
-### Patent
+### Patent - Server for managing natural language processing engines 
 2019.03.27
-- Title: METHOD, SERVER AND COMPUTER PROGRAM FOR MANAGING NATURAL LANGUAGE PROCESSING ENGINES
 - Application Number : 10-2019-0035436 (2019-3-27) / Rating: A
 
 ### Google Cloud Platform Hackathon ﹣ The Best Hackathoner
@@ -46,7 +47,7 @@ News Development Team (2015.10 - 2018.04)
 2018.04 - 2018.12
 - Learned about cloud architectures and developed helpful services using cloud computing technologies.
 
-### Teaching MIT App Inventor in Seowon Elementary School
+### Teaching with MIT App Inventor in Seowon Elementary School
 2015.01 - 2015.07
 - Helped students easily build functional apps for smartphones using a block-based tool by teaching MIT App Inventor in Seowon Elementary School.
 
